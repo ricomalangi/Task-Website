@@ -1,5 +1,4 @@
-- lorem
- . lorem ipsum
- . lorem ipsum
- 
-- lorem ipsum
+Dialy Activities during lockdown :
+1. lorem ipsum
+2. ipsum lorem
+3. dolor ipsum lorem
