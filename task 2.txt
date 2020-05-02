@@ -1,5 +1,4 @@
 Tugas 2 :
 1. Membuat fitur login user
 2. Membuat fitur create user pada halaman admin
-3. Membuat fitur create category
-4. Membuat migration table category
+3. Membuat migration table category
